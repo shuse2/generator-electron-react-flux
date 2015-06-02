@@ -2,8 +2,17 @@
 
 > [Yeoman](http://yeoman.io) generator
 
+## Using
+- electron
+- sass
+- react
+- flux
+- gulp
 
 ## Getting Started
+This creates basical structure of electron using the above tools.
+
+This tool is under development. I will gladly take any comments and suggestions.
 
 ### What is Yeoman?
 
